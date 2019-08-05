@@ -10,7 +10,7 @@ export default class Auth {
 
     audience: "https://divyanshu.auth0.com/userinfo",
     responseType: "token id_token",
-    scope: "openid"
+    scope: "openid" //??
   });
 
   login = () => {
