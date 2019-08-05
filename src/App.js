@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Authentificated!!! App component</h1>
+        <h1>Authenticated!!! App component</h1>
       </div>
     );
   }
